@@ -1,4 +1,4 @@
-👋 Hi, I am Kaoutar
+👋 Hi, I am Kaoutar Tougueni
 
 📊 Aspiring Data Analyst | Tableau | Power BI | SQL | Python | AI Enthusiast
 
@@ -10,8 +10,8 @@ I am passionate about turning raw data into clear, actionable insights — and f
 
 - 📊 Tableau
 - 📈 Power BI
-- 🗄️ SQL (MySQL)
-- 🐍 Python (Pandas, NumPy)
+- 🗄️ SQL (SQLite, MySQL)
+- 🐍 Python (Pandas, Matplotlib, Seaborn)
 - 📁 Excel / Power Query
 - 🤖 AI & Automation trends
 - 🔧 Git & GitHub
@@ -24,6 +24,7 @@ I am passionate about turning raw data into clear, actionable insights — and f
 |---------|-------------|-------|
 | 🤖 [AI Impact on the Job Market 2030](https://github.com/kaoutaranalytics/tableau-ai-jobs-2030) | Interactive dashboards exploring how AI is reshaping jobs, salaries, and automation risk through 2030 | Tableau |
 | 👥 [HR Employee Attrition Analysis](https://github.com/kaoutaranalytics/sql-hr-attrition-analysis) | SQL analysis uncovering why employees leave — attrition by department, salary, age and satisfaction | SQL |
+| 🐍 [HR Attrition EDA — Python](https://github.com/kaoutaranalytics/sql-hr-attrition-analysis) | Exploratory data analysis with Python — 6 charts uncovering burnout, salary gaps and turnover patterns | Python |
 
 More projects coming soon! 🚧
 
@@ -34,7 +35,7 @@ More projects coming soon! 🚧
 - 📊 Tableau for data storytelling
 - 🤖 AI & its impact on industries
 - 🐍 Python for data analysis
-- 📈 Building dashboards for business decisions
+- 🗄️ SQL for business insights
 
 ---
 
