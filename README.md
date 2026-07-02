@@ -1,4 +1,4 @@
-👋 Hi, I am Kaoutar Tougueni
+👋 Hi, I am Kaoutar
 
 📊 Aspiring Data Analyst | Tableau | Power BI | SQL | Python | AI Enthusiast
 
